@@ -13,7 +13,7 @@ package pr_rectangulo;
 public class Punto {
     private int x;
     private int y;
-    
+    //esto es un comentario
     public Punto(int a, int b){
         if(a < 0){
             System.err.println("las coordenadas no pueden ser negativas");
